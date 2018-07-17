@@ -1,3 +1,5 @@
 node_modules
 todos.md
 npm-debugs.log
+.cache
+public
